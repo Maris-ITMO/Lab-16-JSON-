@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 16 СамРабота с JSON товар", "Lab 16 СамРабота с JSON товар.csproj", "{C8BD6B19-FC17-49F4-9139-111D3039C2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ТОВАР 2", "..\ТОВАР 2\ТОВАР 2.csproj", "{C868FB4A-9B2B-45D6-B606-F5FF66D0F0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BD6B19-FC17-49F4-9139-111D3039C2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BD6B19-FC17-49F4-9139-111D3039C2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BD6B19-FC17-49F4-9139-111D3039C2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BD6B19-FC17-49F4-9139-111D3039C2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C868FB4A-9B2B-45D6-B606-F5FF66D0F0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C868FB4A-9B2B-45D6-B606-F5FF66D0F0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C868FB4A-9B2B-45D6-B606-F5FF66D0F0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C868FB4A-9B2B-45D6-B606-F5FF66D0F0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94AB693A-F198-468D-BBB9-AC7A84025D0C}
+	EndGlobalSection
+EndGlobal
